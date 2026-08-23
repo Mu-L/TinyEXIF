@@ -11,7 +11,7 @@ this project uses [Semantic Versioning](https://semver.org/).
      <version>" form as a transitional fallback, so a tag pushed before the
      rename still works -- but renaming first keeps this file accurate.) -->
 
-## [Unreleased] - 1.1.0
+## [1.1.0] - 2026-08-23
 
 ### Added
 - `HasField()` / `GetFields()` API to tell an absent tag apart from one that is
